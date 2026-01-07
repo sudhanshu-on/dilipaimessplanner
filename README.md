@@ -1,6 +1,7 @@
 This project was inspired to have vote for deciding the menu of Hostel Boys. I am looking forward to launch this atleast as practical in my hostel.
 
 Day 0: Planned using Copilot what i need to do that is the plan of action.Tech stacks decided
+Day 1: Added files locally. 
 
 # Getting Started with Create React App
 
